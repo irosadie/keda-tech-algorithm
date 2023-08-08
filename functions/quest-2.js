@@ -1,4 +1,4 @@
-function sleedingWindow(arr, k) {
+const sleedingWindow = (arr, k) => {
   const len = arr.length;
   let maxSum = 0;
   let currentSum = 0;
