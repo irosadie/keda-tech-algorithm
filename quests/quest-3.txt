@@ -1,0 +1,14 @@
+3. Buatlah fungsi untuk mendapatkan jumlah semua bilangan genap dalam nested objek
+Input :
+{
+  outer: 2,
+  obj: {
+    inner: 2,
+    otherObj: {
+      superInner: 2,
+      notANumber: true,
+      alsoNotANumber: "yup"
+    }
+  }
+}
+Output: 6

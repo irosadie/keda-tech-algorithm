@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "answer": "node ./answer/answer",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^29.6.2"
+  },
+  "license": "MIT"
+}
